@@ -1,0 +1,5 @@
+{
+	"Token": "<your bot token here>",
+	"clientId": "<bot's client id, required>",
+	"guildId": "<guild id for testing, uncomment in create-commands to use>"
+}
